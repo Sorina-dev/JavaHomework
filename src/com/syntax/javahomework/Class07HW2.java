@@ -1,6 +1,6 @@
 package com.syntax.javahomework;
 
-public class HW2Class07 {
+public class Class07HW2 {
 	public static void main(String[] args) {
 
 		// Print odd numbers between 20 and 50 (2 ways)

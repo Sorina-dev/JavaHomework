@@ -2,7 +2,7 @@ package com.syntax.javahomework;
 
 import java.util.Scanner;
 
-public class HW3Class07 {
+public class Class07HW3 {
 public static void main(String[] args) {
 	// We are playing a lottery game and the lucky number is 17; 
 	//We want to keep asking the user to enter any numbers from 1-20; 

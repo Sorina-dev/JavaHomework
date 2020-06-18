@@ -1,6 +1,6 @@
 package com.syntax.javahomework;
 
-public class HW1Class07 {
+public class Class07HW1 {
 	public static void main(String[] args) {
 		// Print numbers from 1 to 100 in 1 line with space
 

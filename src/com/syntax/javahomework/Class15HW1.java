@@ -51,13 +51,6 @@ public class Class15HW1 {
 		
 		String animal1 = "tiger";
 		String animal2 = "panthera";
-		//    String a = "Love";  
-//        String b = "You";  
-//        System.out.println("Before swap: " + a + " " + b);  
-//        a = a + b;  
-//        b = a.substring(0, a.length() - b.length());  
-//        a = a.substring(b.length());  
-//        System.out.println("After : " + a + " " + b);  
 		
 		animal1 = animal1 + animal2;
 		animal2 = animal1.substring(0, animal1.length() - animal2.length());

@@ -46,6 +46,21 @@ public class Class15HW1 {
 
 		}
 		System.out.println("Polindrome!");
+		
+		//or
+		/* void palindrome(String word) {
+		String b = "";
+		for (int i = word.length()-1; i >=0; i--) {
+			b += word.charAt(i);
+		}
+		if(b.equals(word)) {
+			System.out.println(word + " is palindrome");
+		}else {
+			System.out.println(word + " isn't palindrome");
+		}
+	}
+		 * 
+		 */
 		System.out.println("******************************************");
 		//How would you swap  2 strings without a temporary variable?
 		

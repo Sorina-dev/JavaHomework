@@ -1,17 +1,25 @@
 package com.syntax.javahomework;
 
- public class Main {
-	
-	 static String name;
-	 static int roll_no;
-	 
+import java.util.Scanner;
+
+public class Main {
 	 public static void main(String[] args) {
-		
-		Main student= new Main();
-		 student.name = "John";
-		 student.roll_no = 2;
-		 
-		 System.out.println("Name is " + name +" and the roll number is " +  roll_no);
-		 
-	}
- }
+		    Scanner sc = new Scanner(System.in); 
+		    System.out.println("Enter the browser name to proceed further with execution");
+		    String browser = sc.nextLine(); 
+		    
+		    switch (browser){
+		      case "ChRoME":
+		        System.out.println("Proceed with Chrome browser");
+		        break;
+		        case "FireFOX":
+		          System.out.println("Proceed with Firefox browser");
+		          break;
+		          case "IE":
+		            System.out.println("Proceed with IE browser");
+		            break;
+		            default:
+		            System.out.println("Invalid browser");
+		    }
+		  }
+		}

@@ -17,17 +17,17 @@ public class Students {
 		Students s1 = new Students();
 		s1.name = "Maria";
 		s1.studentID = 233;
-		s1.numberOfStudents = 1;
+		Students.numberOfStudents ++;
 
 		Students s2 = new Students();
 		s2.name = "Anna";
 		s2.studentID = 287;
-		s2.numberOfStudents = 2;
+		Students.numberOfStudents ++;
 
 		Students s3 = new Students();
 		s3.name = "Ben";
 		s3.studentID = 567;
-		s3.numberOfStudents = 3;
+		Students.numberOfStudents ++;
 
 		System.out.println("Student name is " + s1.name + " with the student ID " + s1.studentID
 				+ ". The total number of students is " + numberOfStudents);

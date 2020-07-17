@@ -1,4 +1,4 @@
-package com.syntax.javahomework22;
+package com.syntax.javahomework23;
 
 public class ShapeTest {
 	

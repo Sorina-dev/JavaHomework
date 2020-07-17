@@ -1,4 +1,4 @@
-package com.syntax.javahomework22;
+package com.syntax.javahomework23;
 /*
  * Create a class named ‘Programming’. While creating an object of the class, 
  * if nothing is passed to it, then the message “I love programming languages” 

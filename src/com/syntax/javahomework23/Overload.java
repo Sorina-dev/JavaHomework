@@ -1,4 +1,4 @@
-package com.syntax.javahomework22;
+package com.syntax.javahomework23;
 
 /*
  * Create 1 class with a static method that has 3 overloaded forms. 

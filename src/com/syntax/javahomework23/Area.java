@@ -1,4 +1,4 @@
-package com.syntax.javahomework22;
+package com.syntax.javahomework23;
 /*
  * Create 1 class in which create a methods that will calculate the area (volume) of 
 Rectangle
